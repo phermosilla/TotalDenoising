@@ -3,7 +3,7 @@
 ///
 /// \brief C++ operation definition to compute the knn of a set of points.
 ///
-/// \copyright Copyright (c) 2018 Visual Computing group of Ulm University,  
+/// \copyright Copyright (c) 2019 Visual Computing group of Ulm University,  
 ///            Germany. See the LICENSE file at the top-level directory of 
 ///            this distribution.
 ///

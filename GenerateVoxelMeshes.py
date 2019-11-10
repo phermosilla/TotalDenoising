@@ -1,3 +1,15 @@
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+    \file GenerateVocelMeshes.py
+
+    \brief Script to generate the voxelization of the meshes.
+
+    \copyright Copyright (c) 2019 Visual Computing group of Ulm University,  
+                Germany. See the LICENSE file at the top-level directory of 
+                this distribution.
+
+    \author pedro hermosilla (pedro-1.hermosilla-casajus@uni-ulm.de)
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
 import argparse
 import os
 import sys

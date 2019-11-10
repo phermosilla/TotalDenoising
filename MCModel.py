@@ -1,10 +1,10 @@
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-    \file MCDeNoiser2.py
+    \file MCModel.py
 
     \brief Definition of the network architecture MCDeNoiser2 for weight 
            computation for each point.
 
-    \copyright Copyright (c) 2018 Visual Computing group of Ulm University,  
+    \copyright Copyright (c) 2019 Visual Computing group of Ulm University,  
                 Germany. See the LICENSE file at the top-level directory of 
                 this distribution.
 

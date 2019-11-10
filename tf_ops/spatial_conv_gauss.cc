@@ -4,7 +4,7 @@
 /// \brief C++ operations definition to perform a spatial convolution on a
 ///        batch of point clouds.
 ///
-/// \copyright Copyright (c) 2018 Visual Computing group of Ulm University,  
+/// \copyright Copyright (c) 2019 Visual Computing group of Ulm University,  
 ///            Germany. See the LICENSE file at the top-level directory of 
 ///            this distribution.
 ///

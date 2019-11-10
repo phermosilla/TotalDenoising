@@ -1,3 +1,15 @@
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+    \file GenerateRueMadameDataSet.py
+
+    \brief Script to generate the rue madame dataset.
+
+    \copyright Copyright (c) 2019 Visual Computing group of Ulm University,  
+                Germany. See the LICENSE file at the top-level directory of 
+                this distribution.
+
+    \author pedro hermosilla (pedro-1.hermosilla-casajus@uni-ulm.de)
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
 import sys
 import math
 import argparse
@@ -44,7 +56,7 @@ def process_node(pts, nodeIter):
 
 if __name__ == '__main__':
 
-    parser = argparse.ArgumentParser(description='Script to generate the noisy datasets.')
+    parser = argparse.ArgumentParser(description='Script to generate the rue madame dataset.')
     parser.add_argument('--srcFolder', default='RueMadame', help='Source folder with the models (default: RueMadame)')
     args = parser.parse_args()
 

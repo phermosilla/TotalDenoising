@@ -1,7 +1,7 @@
 ### Total Denoising: *Unsupervised Learning of 3D Point Cloud Cleaning*
 Created by <a href="https://www.uni-ulm.de/en/in/mi/institute/mi-mitarbeiter/pedro-hermosilla-casajus/" target="_blank">Pedro Hermosilla</a>, <a href="http://www.homepages.ucl.ac.uk/~ucactri/">Tobias Ritschel</a>, <a href="https://www.uni-ulm.de/in/mi/institut/mi-mitarbeiter/tr/" target="_blank">Timo Ropinski</a>.
 
-![teaser](https://github.com//phermosilla/TotalDenoising/blob/master/teaser/Teaser.png)
+![teaser](https://github.com/phermosilla/TotalDenoising/blob/master/teaser/Teaser.png)
 
 ### Citation
 If you find this code useful please consider citing us:

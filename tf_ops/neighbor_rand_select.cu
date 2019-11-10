@@ -4,7 +4,7 @@
 /// \brief CUDA operation definition to select a random point from the 
 ///     receptive field.
 ///
-/// \copyright Copyright (c) 2018 Visual Computing group of Ulm University,  
+/// \copyright Copyright (c) 2019 Visual Computing group of Ulm University,  
 ///            Germany. See the LICENSE file at the top-level directory of 
 ///            this distribution.
 ///

@@ -5,7 +5,7 @@
         from the project pyntcloud of David de la Iglesia Castro 
         (https://github.com/daavoo/pyntcloud)
 
-    \copyright Copyright (c) 2018 Visual Computing group of Ulm University,  
+    \copyright Copyright (c) 2019 Visual Computing group of Ulm University,  
                 Germany. See the LICENSE file at the top-level directory of 
                 this distribution.
 
