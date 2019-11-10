@@ -16,7 +16,7 @@ If you find this code useful please consider citing us:
 ### Installation
 First, install <a href="https://www.tensorflow.org/install/">TensorFlow</a>. The code presented here was developed using TensorFlow v1.13 GPU version, Python 3, and Ubuntu 16.04 TLS. All the operation were implemented on the GPU, no CPU implementation is provided. Therefore, a workstation with a state-of-the-art GPU is required.
 
-#### Intalation of MCCNN library
+#### Instalation of MCCNN library
 Then, we need to download the MCCNN library into a folder named <a href="https://github.com/viscom-ulm/MCCNN">MCCNN</a> and follow the instructions provided in the readme file to compile the library.
 
 #### Compiling tensorflow operations
