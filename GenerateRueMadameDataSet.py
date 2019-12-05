@@ -23,7 +23,8 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 MCCNN_DIR = os.path.join(BASE_DIR, 'MCCNN')
 sys.path.append(os.path.join(MCCNN_DIR, 'utils'))
 
-from ply_reader import read_points_binary_ply, save_model
+from PyUtils import save_model
+from ply_reader import read_points_binary_ply
 
 def process_node(pts, nodeIter):
     if len(pts) > 500000:
