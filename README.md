@@ -29,7 +29,7 @@ In order to train the networks provided in this repository, first, we have to co
 
 #### Synthetic dataset
 
-We will provide such dataset soon.
+You can download the dataset from the following <a href="https://drive.google.com/file/d/1-r1yO4y2X0q64ZbdLdFGnUcuEWMo5ZF2">link</a>
 
 #### Rue Madame
 
